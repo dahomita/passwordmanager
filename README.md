@@ -1,2 +1,0 @@
-# passwordmanager
-Password Manager Platform
